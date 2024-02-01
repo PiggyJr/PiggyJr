@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi, I'm Cris
+Aerospace Engineer and Tech Enthusiast
+
+I like coding, I commit sometimes :D
 
 <!--
 **PiggyJr/PiggyJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
